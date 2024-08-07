@@ -1,1 +1,41 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.funParagraph {
+    color: green;
+    font-style: italic;
+    line-height: 1.6;
+    margin: 10px;
+}
+
+#testP {
+    border: 1px solid #ddd;
+    padding: 10px;    
+}
+
+image {
+    display: -moz-deck
+}
+
+#heading {
+    color: rgb(121, 112, 144);
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#fishing {
+    color: rgb(121, 112, 144);
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 20px;
+}
